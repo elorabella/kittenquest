@@ -7,7 +7,7 @@ public class Player {
     private static final int MAX_ITEMS_IN_BAG = 100;
 
     private String name;
-    private List<Object> bag = new ArrayList<>();
+    private List<Item> bag = new ArrayList<>();
 
     public String getName() {
         return this.name;
@@ -17,11 +17,11 @@ public class Player {
         this.name = name;
     }
 
-    public void addToBag(Object item) {
+    public void addToBag(Item item) {
         this.bag.add(item);
     }
 
-    public Object removeFromBag(Object item) {
+    public Object removeFromBag(Item item) {
         this.bag.remove(item);
         return item;
     }

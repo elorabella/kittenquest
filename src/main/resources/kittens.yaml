@@ -1,0 +1,30 @@
+kittens:
+    - name: Lyra
+      description: A cute, cuddly, pink and fuzzy kitten looks up at you with big, blue eyes and purrs.
+
+    - name: Leona
+      description: A tiny, purple furball ignores you while it cleans its paws.
+
+    - name: Cuddles
+      description: An orange tabby kitten is searching frantically for some lasagna.
+
+    - name: Fuzzy
+      description: A brown, lazy kitten yawns in your general direction.
+
+    - name: Lizzy
+      description: A gray, diminutive kitten found a rather large ball of yarn and doesn't seem to care about being lost.
+
+    - name: Jezebel
+      description: A playful, red kitten stares at you with the look of guilt as it sits on a bed of smashed grapes.
+
+    - name: Elora
+      description: A geeky, intelligent kitten is surprised as you see it playing Minecraft on a computer.
+
+    - name: Spot
+      description: A small tail sticks out of the white, apparently full, kitten as you realize there are very few mice around.
+
+    - name: Cupcake
+      description: A rather large kitten with its face full of cupcakes.  Don't ask, just rescue.
+
+    - name: Angel
+      description: A green kitten with wings.  Yes, wings.  Good luck catching it!
